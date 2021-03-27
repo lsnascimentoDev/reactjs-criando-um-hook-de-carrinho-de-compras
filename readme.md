@@ -3,7 +3,7 @@ Carrinho de Compras
 </h1>
 
 <h1>
-<img src="https://ik.imagekit.io/jn5i7lyh9ft/demo_axwz_l221.gif?tr=w-1104,h-736,fo-auto.gif"/>
+<img src="public/demo.gif"/>
 
 </h1>
 
